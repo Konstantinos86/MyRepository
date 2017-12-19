@@ -7,7 +7,7 @@ package javaapplication22;
 
 /**
  *
- * @author Fotis
+ * @author Konstantinos
  */
 public interface Compress {
     
