@@ -16,7 +16,7 @@ public class JavaApplication22 {
      */
     public static void main(String[] args) {
         
-        String text = "Bye Bye World";
+        String text = "Hello World";
         
         Compress a = new CompressToZip();
         Context editor = new Context(a);
